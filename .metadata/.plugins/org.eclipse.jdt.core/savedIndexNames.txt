@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\georg\OneDrive\Documents\GitHub\ScubaJava\.metadata\.plugins\org.eclipse.jdt.core
+1331771826.index
